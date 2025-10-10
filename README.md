@@ -9,4 +9,4 @@ K.L. Nikhil<sup>1,#</sup>, Bharat Singhal<sup>2</sup>, Daniel Granados-Fuentes<s
 3Department of Chemistry, Saint Louis University, Saint Louis, MO, USA
 4Lead contact
 
-#Corresponding authors: Erik D. Herzog ( herzog@wustl.edu), K.L. Nikhil ( nikhil@wustl.edu)
+#Corresponding authors: Erik D. Herzog (herzog@wustl.edu), K.L. Nikhil (nikhil@wustl.edu)
