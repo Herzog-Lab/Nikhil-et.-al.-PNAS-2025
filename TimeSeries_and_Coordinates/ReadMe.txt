@@ -1,0 +1,19 @@
+SCN Bioluminescence Dataset (SCN1-7) and FigS11-SCN1-3.
+This directory contains the detrended time series data and spatial coordinates for SCN cells (SCN1–SCN7) and the three SCN shown in FigS11. 
+The data is organized by individual Suprachiasmatic Nucleus (SCN) samples and further divided by hemisphere.
+
+Directory Structure
+Data for each SCN is organized into subfolders by sample ID (e.g., SCN1/), with separate files for the Left and Right hemispheres
+
+File Descriptions
+
+1. DetrendedTraces.csv: This file contains the processed PER2::LUC bioluminescence time series sampled at 1-hour intervals.
+	Columns: Each column represents an individual cell.
+	Rows: Each row represents a single time point.
+	Headers: The first row contains the unique Cell IDs.
+
+2. Coordinates.csv: This file provides the spatial context for each cell recorded in the traces.
+	Column 1 (x): The x-coordinate of the cell.
+	Column 2 (y): The y-coordinate of the cell.
+	Column 3 (CycID/Pixel): The unique identifier for the cell.
+	Note: The CycID/Pixel in this file corresponds directly to the Cell IDs found in the top row of the DetrendedTraces.csv file.
