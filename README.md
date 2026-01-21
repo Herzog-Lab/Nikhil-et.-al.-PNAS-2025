@@ -1,6 +1,6 @@
 # Nikhil-et.-al.-PNAS-2025
 
-Supporting data and analysis scripts for 'Information-Theoretic Inference Reveals the Functional Connectome Driving Intercellular Circadian Synchronization in the Mouse Suprachiasmatic Nucleus'
+Supporting data and analysis scripts for 'The inferred functional connectome underlying circadian synchronization in the mouse suprachiasmatic nucleus'
 
 K.L. Nikhil<sup>1,#</sup>, Bharat Singhal<sup>2</sup>, Daniel Granados-Fuentes<sup>1</sup>, Jr-Shin Li<sup>2</sup>, István Z. Kiss<sup>3</sup> and Erik D. Herzog<sup>1,4,#</sup>
 
